@@ -92,20 +92,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, please look at the [release tags](https://github.com/tuandm/laravue/tags) on this repository.
 
-## Authors
-
-* **Tuan Duong** - *Initial work* - [tuandm](https://github.com/tuandm).
-* **Tony Tin Nguyen** - *Frontend and Designer* - [nguyenquangtin](https://github.com/nguyenquangtin).
-
-See also the list of [contributors](https://github.com/tuandm/laravue/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-## Related projects
-
-* [Laravue-core](https://github.com/tuandm/laravue-core) - Laravel package which provides core functionalities of Laravue.
 
 ## Acknowledgements
 
@@ -113,5 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 * [tui.editor](https://github.com/nhnent/tui.editor) - Markdown WYSIWYG Editor.
 * [Echarts](http://echarts.apache.org/) - A powerful, interactive charting and visualization library for browser.
 
-## Donate
-If you find this project useful, you can [buy me a coffee](https://www.buymeacoffee.com/tuandm)
