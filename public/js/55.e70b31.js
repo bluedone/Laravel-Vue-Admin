@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[55],{tuOm:function(t,e,n){"use strict";n.r(e);var a={name:"CreateForm",components:{ArticleDetail:n("ZHow").a}},i=n("KHd+"),l=Object(i.a)(a,(function(){var t=this.$createElement;return(this._self._c||t)("article-detail",{attrs:{"is-edit":!1}})}),[],!1,null,null,null);e.default=l.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{UVcm:function(t,n,e){"use strict";e.r(n);var l=e("KHd+"),a=Object(l.a)({},(function(t,n){var e=n._c;return e("div",{staticStyle:{padding:"30px"}},[e("el-alert",{attrs:{closable:!1,title:"menu 1-2-2",type:"warning"}})],1)}),[],!0,null,null,null);n.default=a.exports}}]);
