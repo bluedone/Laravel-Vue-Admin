@@ -1,7 +1,4 @@
 <p align="center">
-  <img width="320" src="https://cp5.sgp1.cdn.digitaloceanspaces.com/zoro/laravue-cdn/laravue-logo-line.png">
-</p>
-<p align="center">
   <a href="https://laravel.com">
     <img src="https://img.shields.io/badge/laravel-7.3-brightgreen.svg" alt="vue">
   </a>
@@ -16,10 +13,8 @@
   </a>
 </p>
 
-# Laravue
-[Laravue](https://laravue.dev) (pronounced /ˈlarəvjuː/) is a beautiful dashboard combination of [Laravel](https://laravel.com/), [Vue.js](https://github.com/vuejs/vue) and the UI Toolkit [Element](https://github.com/ElemeFE/element). The work is inspired by  [vue-element-admin](http://panjiachen.github.io/vue-element-admin) with our love on top of that. With the powerful Laravel framework as the backend, Vue.js as the high performance on the frontend,  Laravue appears to be a full-stack solution for an enterprise application level.
-
-Documentation: [https://doc.laravue.dev](https://doc.laravue.dev)
+# 
+ This Application is a beautiful dashboard combination of [Laravel](https://laravel.com/), [Vue.js](https://github.com/vuejs/vue) and the UI Toolkit [Element](https://github.com/ElemeFE/element). The work is inspired by  [vue-element-admin](http://panjiachen.github.io/vue-element-admin) with our love on top of that. With the powerful Laravel framework as the backend, Vue.js as the high performance on the frontend,  Laravue appears to be a full-stack solution for an enterprise application level.
 
 ## Screenshot
 <p align="center">
