@@ -79,17 +79,10 @@ This project uses [Envoy](https://laravel.com/docs/5.8/envoy) for deployment, an
 * [Element](https://element.eleme.io/) - A  Vue 2.0 based component library for developers, designers and product managers
 * [Vue Admin Template](https://github.com/PanJiaChen/vue-admin-template) - A minimal vue admin template with Element UI
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, please look at the [release tags](https://github.com/tuandm/laravue/tags) on this repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgements
 
